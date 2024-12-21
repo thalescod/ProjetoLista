@@ -1,0 +1,207 @@
+.vector-icon {
+  position: absolute;
+  height: 9.75%;
+  width: 5.46%;
+  top: 3.28%;
+  right: 2.43%;
+  bottom: 86.97%;
+  left: 92.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.base {
+  position: absolute;
+  height: 66.11%;
+  width: 27.34%;
+  top: 16.95%;
+  right: 36.33%;
+  bottom: 16.95%;
+  left: 36.33%;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+}
+.sm1llle,
+.usurio1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.sm1llle {
+  top: 56.1%;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray);
+}
+.usurio-child {
+  position: absolute;
+  height: 2.44%;
+  width: 100.34%;
+  top: 98.78%;
+  right: -0.17%;
+  bottom: -1.22%;
+  left: -0.17%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.boto1,
+.senha,
+.usurio {
+  position: absolute;
+  height: 4.93%;
+  width: 22.73%;
+  top: 24.76%;
+  right: 38.67%;
+  bottom: 70.31%;
+  left: 38.59%;
+}
+.boto1,
+.senha {
+  top: 32.33%;
+  bottom: 62.74%;
+}
+.boto1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumblue);
+}
+.entrar {
+  top: 24.44%;
+  left: 33.51%;
+}
+.boto,
+.boto3,
+.entrar {
+  position: absolute;
+}
+.boto {
+  height: 5.41%;
+  width: 14.69%;
+  top: 41.11%;
+  right: 42.66%;
+  bottom: 53.49%;
+  left: 42.66%;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--light-light);
+}
+.boto3 {
+  height: 44.94%;
+  width: 38.45%;
+  top: 37.98%;
+  right: 61.55%;
+  bottom: 17.08%;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumblue);
+}
+.cadastrar {
+  position: absolute;
+  height: 24.04%;
+  width: 20.04%;
+  top: 48.99%;
+  left: 8.99%;
+  display: inline-block;
+}
+.boto-child {
+  position: relative;
+  width: 105.7px;
+  height: 89px;
+}
+.boto2,
+.boto4 {
+  position: absolute;
+}
+.boto2 {
+  height: 10.7%;
+  width: 40.39%;
+  top: 48.32%;
+  right: 16.95%;
+  bottom: 40.99%;
+  left: 42.66%;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--light-light);
+}
+.boto4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--light-light);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.entrar-com-google {
+  position: absolute;
+  top: 31.11%;
+  left: 21.31%;
+  font-weight: 500;
+}
+.google-1-icon {
+  position: absolute;
+  height: 66.67%;
+  width: 10.31%;
+  top: 17.78%;
+  right: 84.88%;
+  bottom: 15.56%;
+  left: 4.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.google {
+  position: absolute;
+  height: 5.41%;
+  width: 22.73%;
+  top: 60.94%;
+  right: 38.67%;
+  bottom: 33.65%;
+  left: 38.59%;
+}
+.esqueceu-a-senha,
+.primeiro-acesso {
+  position: absolute;
+  top: 70.43%;
+  left: 44.45%;
+  text-decoration: underline;
+  font-weight: 500;
+  text-align: center;
+}
+.primeiro-acesso {
+  top: 76.56%;
+  left: 45.08%;
+}
+.tela-login-child {
+  position: absolute;
+  height: 13.22%;
+  width: 10.16%;
+  top: 3.37%;
+  right: 88.52%;
+  bottom: 83.41%;
+  left: 1.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tela-login {
+  width: 100%;
+  position: relative;
+  background-color: var(--light-light);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--sp-body-1);
+}

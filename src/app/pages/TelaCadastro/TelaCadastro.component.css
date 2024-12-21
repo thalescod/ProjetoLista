@@ -1,0 +1,166 @@
+.tela-cadastro-child,
+.vector-icon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 9.75%;
+  width: 5.46%;
+  top: 3.28%;
+  right: 2.43%;
+  bottom: 86.97%;
+  left: 92.11%;
+  object-fit: contain;
+}
+.tela-cadastro-child {
+  height: 13.22%;
+  width: 10.16%;
+  top: 3.37%;
+  right: 88.52%;
+  bottom: 83.41%;
+  left: 1.33%;
+}
+.base1 {
+  position: absolute;
+  height: 72.84%;
+  width: 27.34%;
+  top: 13.58%;
+  right: 36.33%;
+  bottom: 13.58%;
+  left: 36.33%;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+}
+.jos-maria-dos,
+.nome-completo {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.jos-maria-dos {
+  top: 56.1%;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray);
+}
+.nome-child {
+  position: absolute;
+  height: 2.44%;
+  width: 100.34%;
+  top: 98.78%;
+  right: -0.17%;
+  bottom: -1.22%;
+  left: -0.17%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.email,
+.nome {
+  position: absolute;
+  height: 4.93%;
+  width: 22.73%;
+  top: 28.49%;
+  right: 38.67%;
+  bottom: 66.59%;
+  left: 38.59%;
+}
+.email {
+  top: 36.06%;
+  bottom: 59.01%;
+}
+.nome-de-usurio {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-mini);
+}
+.disponvel,
+.josemaria1 {
+  position: absolute;
+  top: 56.1%;
+  left: 0;
+  color: var(--color-gray);
+}
+.disponvel {
+  left: 79.04%;
+  color: var(--color-mediumblue);
+}
+.usuario {
+  position: absolute;
+  height: 4.93%;
+  width: 22.73%;
+  top: 43.63%;
+  right: 38.67%;
+  bottom: 51.44%;
+  left: 38.59%;
+  font-size: var(--font-size-xs);
+}
+.as-senhas-so {
+  position: absolute;
+  top: 56.1%;
+  left: 58.42%;
+  color: var(--color-mediumblue);
+}
+.confirmar-senha,
+.criar-senha {
+  position: absolute;
+  height: 4.93%;
+  width: 22.73%;
+  top: 51.2%;
+  right: 38.67%;
+  bottom: 43.87%;
+  left: 38.59%;
+  font-size: var(--font-size-xs);
+}
+.confirmar-senha {
+  top: 58.77%;
+  bottom: 36.3%;
+}
+.boto6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumblue);
+}
+.boto5,
+.cadastrar1 {
+  position: absolute;
+  top: 24.44%;
+  left: 23.94%;
+}
+.boto5 {
+  height: 5.41%;
+  width: 14.69%;
+  top: 69.23%;
+  right: 42.66%;
+  bottom: 25.36%;
+  left: 42.66%;
+  font-size: var(--font-size-xl);
+  color: var(--light-light);
+}
+.possuo-cadastro {
+  position: absolute;
+  top: 79.33%;
+  left: 44.92%;
+  text-decoration: underline;
+  font-weight: 500;
+  text-align: center;
+}
+.tela-cadastro {
+  width: 100%;
+  position: relative;
+  background-color: var(--light-light);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--sp-body-1);
+}

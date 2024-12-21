@@ -1,0 +1,285 @@
+.ofertas-bebidas-child,
+.vector-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon4 {
+  height: 9.75%;
+  width: 5.46%;
+  top: 3.28%;
+  right: 2.43%;
+  bottom: 86.97%;
+  left: 92.11%;
+  object-fit: contain;
+}
+.ofertas-bebidas-child {
+  height: 13.22%;
+  width: 10.16%;
+  top: 3.37%;
+  right: 88.52%;
+  bottom: 83.41%;
+  left: 1.33%;
+}
+.ofertas-de-bebidas {
+  position: absolute;
+  top: 20.67%;
+  left: 4.14%;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+}
+.ofertas-bebidas-item {
+  position: absolute;
+  height: 1.56%;
+  width: 33.13%;
+  top: 23.56%;
+  right: 69.06%;
+  bottom: 74.88%;
+  left: -2.19%;
+  border-radius: var(--br-12xs);
+  background-color: var(--color-royalblue);
+}
+.ofertas-bebidas-inner {
+  position: absolute;
+  height: 18.15%;
+  width: 17.34%;
+  top: 31.85%;
+  right: 80.7%;
+  bottom: 50%;
+  left: 1.95%;
+  border-radius: var(--br-lgi);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.r-15001 {
+  letter-spacing: 0.01em;
+}
+.coca-cola1 {
+  font-weight: 600;
+  font-family: var(--sp-body-1);
+}
+.coca-cola {
+  margin: 0;
+}
+.blank-line1 {
+  font-family: var(--sp-body-1);
+}
+.r-1500-coca-cola-container1 {
+  width: 100%;
+}
+.r-1500-coca-cola-container {
+  position: absolute;
+  height: 10.7%;
+  width: 14.45%;
+  top: 51.68%;
+  left: 3.05%;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.h-s-18h-container {
+  position: absolute;
+  height: 4.09%;
+  width: 31.02%;
+  top: 10.94%;
+  left: 60.39%;
+  font-size: var(--m3-display-medium-size);
+  line-height: 52px;
+  font-family: var(--m3-display-medium);
+  display: inline-block;
+}
+.garrafa-2l {
+  position: absolute;
+  height: 9.5%;
+  width: 8.13%;
+  top: 51.08%;
+  left: 11.48%;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.ofertas-bebidas-child1,
+.ofertas-bebidas-child2,
+.ofertas-bebidas-child3,
+.ofertas-bebidas-child4,
+.rectangle-icon {
+  position: absolute;
+  height: 21.51%;
+  width: 14.45%;
+  top: 31.01%;
+  right: 50.86%;
+  bottom: 47.48%;
+  left: 34.69%;
+  border-radius: var(--br-lgi);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ofertas-bebidas-child1,
+.ofertas-bebidas-child2,
+.ofertas-bebidas-child3,
+.ofertas-bebidas-child4 {
+  height: 19.83%;
+  width: 16.25%;
+  top: 31.85%;
+  right: 19.53%;
+  bottom: 48.32%;
+  left: 64.22%;
+}
+.ofertas-bebidas-child2,
+.ofertas-bebidas-child3,
+.ofertas-bebidas-child4 {
+  height: 18.75%;
+  width: 15.86%;
+  top: 64.78%;
+  right: 19.92%;
+  bottom: 16.47%;
+}
+.ofertas-bebidas-child3,
+.ofertas-bebidas-child4 {
+  height: 18.87%;
+  width: 15.7%;
+  top: 65.38%;
+  right: 50.23%;
+  bottom: 15.75%;
+  left: 34.06%;
+}
+.ofertas-bebidas-child4 {
+  height: 17.43%;
+  width: 16.56%;
+  top: 66.11%;
+  right: 81.48%;
+  bottom: 16.47%;
+  left: 1.95%;
+}
+.arroz-tio-joo1 {
+  font-size: 13px;
+  font-weight: 600;
+  font-family: var(--sp-body-1);
+}
+.blank-line4 {
+  font-size: var(--font-size-xs);
+  font-family: var(--sp-body-1);
+}
+.r-3500-arroz-container {
+  width: 8.13%;
+  top: 86.42%;
+  left: 3.75%;
+  font-size: var(--sp-button-size);
+}
+.pacote-1kg,
+.r-2200-caf-container,
+.r-3500-arroz-container {
+  position: absolute;
+  height: 9.5%;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.pacote-1kg {
+  width: 8.13%;
+  top: 85.22%;
+  left: 12.27%;
+  font-size: var(--font-size-xs);
+}
+.r-2200-caf-container {
+  width: 15.08%;
+  top: 86.42%;
+  left: 34.69%;
+}
+.pacote-500g,
+.pacote-500g1,
+.r-2200-caf-container2,
+.r-2200-caf-container4 {
+  position: absolute;
+  width: 12.73%;
+  top: 88.46%;
+  left: 44.92%;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.pacote-500g1,
+.r-2200-caf-container2,
+.r-2200-caf-container4 {
+  width: 11.33%;
+  top: 57.09%;
+}
+.r-2200-caf-container2,
+.r-2200-caf-container4 {
+  height: 9.5%;
+  width: 10.31%;
+  top: 54.33%;
+  left: 34.61%;
+}
+.r-2200-caf-container4 {
+  width: 11.72%;
+  top: 53.25%;
+  left: 64.22%;
+}
+.pacote-1kg1,
+.pacote-500g2,
+.r-3500-arroz-container2 {
+  position: absolute;
+  width: 11.64%;
+  top: 55.65%;
+  left: 74.22%;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+}
+.pacote-1kg1,
+.r-3500-arroz-container2 {
+  height: 9.5%;
+  width: 12.66%;
+  top: 85.7%;
+  left: 65.16%;
+}
+.pacote-1kg1 {
+  width: 14.3%;
+  top: 84.5%;
+  left: 78.2%;
+}
+.boto12 {
+  position: absolute;
+  height: 76.27%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 23.73%;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumblue);
+}
+.liatados {
+  position: absolute;
+  top: 18.64%;
+  left: 23.94%;
+  cursor: pointer;
+}
+.boto11 {
+  position: absolute;
+  height: 7.09%;
+  width: 14.69%;
+  top: 92.43%;
+  right: 7.27%;
+  bottom: 0.48%;
+  left: 78.05%;
+  color: var(--light-light);
+}
+.ofertas-bebidas {
+  width: 100%;
+  position: relative;
+  background-color: var(--light-light);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--sp-body-1);
+}

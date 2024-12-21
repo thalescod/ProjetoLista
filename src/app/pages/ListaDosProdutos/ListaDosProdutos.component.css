@@ -1,0 +1,249 @@
+.lista-dos-produtos-child,
+.vector-icon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2 {
+  height: 9.75%;
+  width: 5.46%;
+  top: 3.28%;
+  right: 2.43%;
+  bottom: 86.97%;
+  left: 92.11%;
+  object-fit: contain;
+}
+.lista-dos-produtos-child {
+  height: 13.22%;
+  width: 10.16%;
+  top: 3.37%;
+  right: 88.52%;
+  bottom: 83.41%;
+  left: 1.33%;
+}
+.sua-lista-de {
+  position: absolute;
+  width: 30.55%;
+  top: 21.63%;
+  left: 4.77%;
+  font-weight: 600;
+  display: inline-block;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 8.89%;
+  width: 5.94%;
+  top: 17.19%;
+  right: 58.75%;
+  bottom: 73.92%;
+  left: 35.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lista-dos-produtos-item {
+  position: absolute;
+  height: 1.8%;
+  width: 34.38%;
+  top: 24.28%;
+  right: 66.72%;
+  bottom: 73.92%;
+  left: -1.09%;
+  border-radius: var(--br-12xs);
+  background-color: #6563ff;
+}
+.lista-dos-produtos-inner {
+  position: absolute;
+  height: 60.7%;
+  width: 45.16%;
+  top: 31.61%;
+  right: 40.63%;
+  bottom: 7.69%;
+  left: 14.22%;
+  border-radius: 35px;
+  background-color: var(--color-gainsboro);
+}
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--light-light);
+  display: none;
+}
+.checked-empty-icon {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: 8px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.secondary,
+.value {
+  position: absolute;
+  height: calc(100% - 28px);
+  width: calc(100% - 80px);
+  top: 14px;
+  left: 72px;
+}
+.value {
+  letter-spacing: 0.75px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.secondary {
+  font-size: var(--sp-body-1-size);
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  color: var(--light-secondary-color);
+  text-align: right;
+  display: none;
+}
+.checkfalse-single-line,
+.selector-single {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.selector-single {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.checkfalse-single-line {
+  top: 48px;
+  height: 48px;
+  font-size: var(--sp-button-size);
+}
+.secondary1,
+.value1 {
+  position: absolute;
+  height: calc(100% - 28px);
+  width: calc(100% - 80px);
+  top: 14px;
+  left: 72px;
+  letter-spacing: 0.01em;
+}
+.value1 {
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+}
+.secondary1 {
+  line-height: 24px;
+  color: var(--light-secondary-color);
+  text-align: right;
+  display: none;
+}
+.checksingle-true {
+  position: absolute;
+  width: 100%;
+  top: 144px;
+  right: 0;
+  left: 0;
+  height: 48px;
+  color: var(--light-primary-color);
+}
+.value2 {
+  position: absolute;
+  height: calc(100% - 28px);
+  width: calc(100% - 80px);
+  top: 14px;
+  left: 72px;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  display: inline-block;
+}
+.checkfalse-single-line1,
+.checkfalse-single-line2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 48px;
+}
+.checkfalse-single-line1 {
+  top: 192px;
+  display: none;
+}
+.checkfalse-single-line2 {
+  top: 288px;
+}
+.selector-single4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.checkfalse-single-line3,
+.selector-single4 {
+  top: 0;
+  display: none;
+}
+.checkfalse-single-line3,
+.checksingle-false,
+.checktrue-single-line {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 48px;
+}
+.checksingle-false {
+  top: 240px;
+  display: none;
+}
+.checktrue-single-line {
+  top: 96px;
+  color: var(--light-primary-color);
+}
+.checkfalse-single-line4,
+.checksingle-false1,
+.checksingle-false2 {
+  position: absolute;
+  width: 100%;
+  top: 384px;
+  right: 0;
+  left: 0;
+  height: 48px;
+}
+.checksingle-false1,
+.checksingle-false2 {
+  top: 336px;
+}
+.checksingle-false2 {
+  top: 432px;
+}
+.patternschecksimple {
+  position: absolute;
+  height: 23.08%;
+  width: 19.92%;
+  top: 31.61%;
+  right: 61.72%;
+  bottom: 45.31%;
+  left: 18.36%;
+  overflow: hidden;
+  font-size: var(--sp-body-1-size);
+  color: var(--light-dark);
+  font-family: var(--sp-body-1);
+}
+.lista-dos-produtos {
+  width: 100%;
+  position: relative;
+  background-color: var(--light-light);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
